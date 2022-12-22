@@ -2,7 +2,7 @@
   "name": "anno-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://amy011872.github.io/NlpWeb-Anno-Game",
+  "homepage": "https://jeffeuxMartin.github.io/NlpWeb-Anno-Game",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
